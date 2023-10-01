@@ -1,8 +1,14 @@
-# Hello 👋
+# Hello, Robin here 👋
 
-I am Robin, a data scientist based in Singapore.
-
+💡About me:
 * 🧐 Interested in machine learning and backend technologies.
 * 💻 Experienced in deep learning applications, especially recommender systems.
-* ✍ Used to maintain a [personal technical blog](https://www.cnblogs.com/micrari/) written in Chinese.
-* 📚 Love reading tech books when I have time.
+
+🔗 Digital Presence:
+
+* [个人主页](https://mottox.github.io/)
+* [技术博客](https://www.cnblogs.com/micrari/)
+
+🏠 Physical Presence:
+
+* 🇸🇬🦁Singapore🏙🏝️️
